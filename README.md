@@ -82,4 +82,5 @@ kasd fksdlja fskladj fkasdj fkasj fjklsd
 # My other section
 [Click here](#my-section)
 
+[other file](test/README.md)
 asldkaskdj askljd askldfj aklsjdf klajs d
